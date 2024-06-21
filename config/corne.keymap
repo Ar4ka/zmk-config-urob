@@ -7,12 +7,12 @@
 #define X_LT &kp RC(RG(Q))
 #define X_LM &tog NAV
 #define X_LB &none
-#define X_LH &none
+#define X_LH  &kp LGUI      // thumb row, left
 
 #define X_RT &none
 #define X_RM &none
 #define X_RB &none
-#define X_RH &none
+#define X_RH  &smart_mouse  // thumb row, right
 
 /* activate bluetooth */
 #define CONFIG_WIRELESS 1
